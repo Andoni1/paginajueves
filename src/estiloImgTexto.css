@@ -1,0 +1,30 @@
+.contenedor{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+.texto-encima{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.centradoAbajo{
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+img{
+    height: 400px;
+    width: 400px;
+}
+
+.imagen1{
+    background-image: url(../src/images/pruebaImg.jpg);
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100%;
+
+}
+
