@@ -6,7 +6,6 @@ import Main from './Componentes/main';
 
 import './App.css';
 
-/*  <Navbar />*/
 function App() {
   return (
     <div className="App">
