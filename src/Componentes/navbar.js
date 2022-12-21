@@ -22,22 +22,22 @@ class Navbar extends React.Component {
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
               <li class="nav-item">
-                <a class="nav-link" href="descripcion">
+                <a class="nav-link" href="#descripcion">
                   Caracteristicas
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="planes">
+                <a class="nav-link" href="#planes">
                   Planes
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">
+                <a class="nav-link" href="#nosotros">
                   Sobre Nosotros
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">
+                <a class="nav-link" href="#contacto">
                   Contacto
                 </a>
               </li>

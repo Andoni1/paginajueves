@@ -13,7 +13,7 @@ function App() {
       <Header />
 
       <Navbar />
-            
+
       <Main />
 
       <Footer /> 

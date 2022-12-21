@@ -1,7 +1,20 @@
 body{
   background-image: url(./images/pexels-moises-arias-12236018.jpg);
-
+  /* background-color:rgba(0, 0, 0, 0.5); */
 }
+
+/* body::before {    
+  content: "";
+  background-image: url(./images/pexels-moises-arias-12236018.jpg);
+  background-size: cover;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 0.75;
+} */
+
 header{
   background: #2980B9;  /* fallback for old browsers */
   background: -webkit-linear-gradient(to left, #FFFFFF, #6DD5FA, #2980B9);  /* Chrome 10-25, Safari 5.1-6 */
@@ -27,4 +40,8 @@ footer{
   background: -webkit-linear-gradient(to left, #2980B9, #6DD5FA, #FFFFFF);  /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to left, #2980B9, #6DD5FA, #FFFFFF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
+}
+
+.carusel{
+  opacity: 0.8;
 }
