@@ -19,7 +19,7 @@ class Footer extends React.Component {
                       xmlns="http://www.w3.org/2000/svg"
                       width="16"
                       height="16"
-                      fill="currentColor"
+                      fill="white"
                       className="bi bi-twitter"
                       viewBox="0 0 16 16"
                     >
@@ -33,7 +33,7 @@ class Footer extends React.Component {
                       xmlns="http://www.w3.org/2000/svg"
                       width="16"
                       height="16"
-                      fill="currentColor"
+                      fill="white"
                       className="bi bi-instagram"
                       viewBox="0 0 16 16"
                     >
@@ -47,7 +47,7 @@ class Footer extends React.Component {
                       xmlns="http://www.w3.org/2000/svg"
                       width="16"
                       height="16"
-                      fill="currentColor"
+                      fill="white"
                       className="bi bi-facebook"
                       viewBox="0 0 16 16"
                     >

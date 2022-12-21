@@ -1,5 +1,6 @@
 {
   "name": "lpagandoni",
+  "homepage": "http://localhost/react/prueba/lpageBuild",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

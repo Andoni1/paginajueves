@@ -38,4 +38,7 @@ img{
  height: 300px;
 }
 
+svg:hover {
+    fill: black;
+  }
 
