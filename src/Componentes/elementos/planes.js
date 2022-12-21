@@ -11,9 +11,9 @@ class Planes extends React.Component {
                 <header>
                 <h4 class="plan-title">
                     
-                    Pro
+                    Básico
                 </h4>
-                <div class="plan-cost"><span class="plan-price">$49</span><span class="plan-type">/month</span></div>
+                <div class="plan-cost"><span class="plan-price">Gratuito</span><span class="plan-type"></span></div>
                 </header>
                 <ul class="plan-features">
                 <li><i class="ion-checkmark"> </i>25GB Linux Web Space</li>
@@ -31,7 +31,7 @@ class Planes extends React.Component {
                     
                     Ultra
                 </h4>
-                <div class="plan-cost"><span class="plan-price">$99</span><span class="plan-type">/month</span></div>
+                <div class="plan-cost"><span class="plan-price">3.99€</span><span class="plan-type">/month</span></div>
                 </header>
                 <ul class="plan-features">
                 <li><i class="ion-checkmark"> </i>100GB Linux Web Space</li>

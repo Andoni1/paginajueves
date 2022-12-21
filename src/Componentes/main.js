@@ -11,25 +11,25 @@ class Main extends React.Component {
         <div class="container">
             <Carrusel />
 
-            <div id="descripcion"> 
+            <div id="descripcion" class="mt-5"> 
               <h2>Caracteristicas</h2>
               <p>Descripcion de la aplicación</p>
+              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi repellat voluptate ipsum! Similique dolorum officia eum vero.</p>
+              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi repellat voluptate ipsum! Similique dolorum officia eum vero.</p>
             </div>
-            <div id="planes"> 
+            <div id="planes" class="mt-5"> 
               <h2>Planes</h2>
                 <Planes />
             </div>
             <div class="d-flex">
               <div class="">
-                <div class="">
                   <h2>Sobre Nosotros</h2>
                   <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi repellat voluptate ipsum! Similique dolorum officia eum vero, voluptatem mollitia rerum est debitis, temporibus perspiciatis labore modi nemo?</p>
                 <Equipo />
-                </div>
               </div>
             </div>
 
-            <div > 
+            <div class="mt-5" > 
               <h2>Contacto</h2>
               <FormularioContacto />
             </div>
