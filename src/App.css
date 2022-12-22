@@ -29,7 +29,7 @@ header{
 .circular{
   border-radius: 50%;
 }
-img {
+.imgpeq {
   max-width: 90px;
   max-height: 90px;
 }

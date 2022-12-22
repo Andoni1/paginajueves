@@ -3,7 +3,7 @@ import "../estiloImgTexto.css";
 import Carrusel from "./elementos/carrusel";
 import FormularioContacto from "./elementos/formulario";
 import Planes from "./elementos/planes";
-import Equipo from "./equipo";
+import EquipoA from "./equipoA";
 
 class Main extends React.Component {
   render() {
@@ -25,7 +25,8 @@ class Main extends React.Component {
             <div id="nosotros">
                 <h2>Sobre Nosotros</h2>
                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi repellat voluptate ipsum! Similique dolorum officia eum vero, voluptatem mollitia rerum est debitis, temporibus perspiciatis labore modi nemo?</p>
-                <Equipo />
+                <EquipoA /> 
+
             </div>
             <div class="mt-5" id="contacto"> 
               <h2>Contacto</h2>
